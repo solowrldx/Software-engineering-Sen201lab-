@@ -1,0 +1,3 @@
+Software engineering is a field of computer science that focuses on the systematic development and maintenance of software. It involves applying engineering principles to ensure that software is reliable, efficient, and meets users’ needs.
+The process includes requirements analysis, design, coding, testing, deployment, and maintenance. Each stage helps ensure the final product works properly and can be improved over time.
+In summary, software engineering helps create high-quality software through careful planning, teamwork, and disciplined methods.
